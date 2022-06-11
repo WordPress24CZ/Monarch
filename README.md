@@ -19,4 +19,6 @@
 ## Support
 
 * [wp24.cz](https://www.wp24.cz)
+* [ccow.cz](https://ccow.cz/)
+* [jkstudio.cz](https://www.jkstudio.cz)
 
